@@ -1,0 +1,23 @@
+{
+  "name": "simple-stream",
+  "version": "1.0.0",
+  "description": "Turn callbacks into streams. Easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcoPolo/simple-stream.git"
+  },
+  "keywords": [
+    "stream",
+    "frp"
+  ],
+  "author": "MarcoPolo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcoPolo/simple-stream/issues"
+  },
+  "homepage": "https://github.com/MarcoPolo/simple-stream"
+}
